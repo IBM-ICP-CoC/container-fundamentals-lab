@@ -10,7 +10,7 @@ Install Docker locally.  If you have a Mac you can get it here: [https://docs.do
 
 1. [Hello World](hello-world.md)
 2. [Simple PHP App](simple-php-app.md), port mapping
-3. [Shelling into running container](exec.md])
+3. [Shelling into running container](exec.md)
 4. [Environment variables](env.md)
 5. [Disk mapping](disk.md)
 6. [Communication between containers](comm.md)
